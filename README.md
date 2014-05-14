@@ -2,13 +2,14 @@
 
 [Bootstrap framework](http://http://getbootstrap.com/) components for [Om](https://github.com/swannodette/om).
 
-
-##  [Here is the component demo page](http://om-bootstrap.tonylandis.com)
-
-
 ```
 [om-bootstrap "0.1.0-SNAPSHOT"]
 ```
+
+####  [Here is the component demo page](http://om-bootstrap.tonylandis.com)
+
+
+
 
 
 ### Project Goals
