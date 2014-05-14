@@ -2,9 +2,8 @@
 
 [Bootstrap framework](http://http://getbootstrap.com/) components for [Om](https://github.com/swannodette/om).
 
-## Component Demo
 
-[Here is the demo page](http://om-bootstrap.tonylandis.com)
+##  [Here is the component demo page](http://om-bootstrap.tonylandis.com)
 
 
 ```
