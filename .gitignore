@@ -1,0 +1,15 @@
+pom.xml
+*jar
+/lib/
+/classes/
+/out/
+/target/
+.lein*
+.repl*
+/repl
+test/generated
+pom.xml
+bin
+*.swp
+*.swo
+*.*~
